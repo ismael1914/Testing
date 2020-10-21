@@ -1,4 +1,4 @@
-n1 = int(input("Digite o primeiro número: "))
+n1 = int(input("Digite o primeiro número: ")) #primeira entrada
 n2 = int(input("Digite o segundo número: "))
 print()
 print("""1) Adição
