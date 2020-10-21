@@ -1,4 +1,3 @@
-# Triângulo
 r1 = int(input("Primeiro segmento: "))
 r2 = int(input("Segundo segmento: "))
 r3 = int(input("Terceiro segmento: "))
