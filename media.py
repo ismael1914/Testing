@@ -1,3 +1,4 @@
+# Cálculo da Média
 nome = str(input("Aluno: "))
 disciplina = str(input("Disciplina: "))
 n1 = float(input("Nota 1: "))
